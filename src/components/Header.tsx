@@ -21,7 +21,7 @@ const Menu = () => {
       >
         <polygon points="50,0 100,0 50,100 0,100" />
       </svg>
-      
+
       <Popover>
         <div className="relative pt-6 px-4 sm:px-6 lg:px-8">
           <nav
