@@ -41,7 +41,7 @@
       },
       {
         "title": "Nuestra Promesa",
-        "description": "El Antojito es el lugar ideal para satisfacer tus antojos con un delicioso pan recién horneado. Cada día, trabajamos con pasión para ofrecerte sabores que te hagan sentir como en casa.",
+        "description": "El Antojito es el lugar ideal para satisfacer tus antojos con un deliciosos buñuelos, churros y donas. Cada día, trabajamos con pasión para ofrecerte sabores que te hagan sentir como en casa.",
         "img": "/assets/images/3.png"
       }
     ]
@@ -53,18 +53,18 @@
     "items": [
       {
         "name": "Número",
-        "description": "+57 300 123456",
+        "description": "+57 311 2212530",
         "icon": "/assets/images/phone.png"
       },
       {
         "name": "Email",
-        "description": "minegocio@gmail.com",
+        "description": "bunueloselantojito@gmail.com",
         "icon": "/assets/images/email.png"
       },
       {
-        "name": "Instagram",
-        "description": "@MiNegocio",
-        "icon": "/assets/images/insta.png"
+        "name": "Facebook",
+        "description": "Buñuelos el Antojito",
+        "icon": "/assets/images/facebook.jpg"
       },
       {
         "name": "Facebook",
